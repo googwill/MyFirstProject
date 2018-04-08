@@ -10,7 +10,8 @@ public class TestClass {
 	
 	public void display() {
 		
-		System.out.print("test package!");
+		System.out.println("test package!");
+		System.out.println("test 22");
 	}
 	
     
