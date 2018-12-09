@@ -11,8 +11,10 @@ public class StartClass {
 		TestClass myObject = new TestClass();
 		int num = myObject.GetNumber();
 		System.out.println(num);
-	
+		
 		myObject.display();
+		System.out.println("test 1");
+		
 	}
 
 }
