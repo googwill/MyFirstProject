@@ -14,7 +14,7 @@ public class StartClass {
 		
 		myObject.display();
 		System.out.println("test 222");
-		System.out.println("this is a test");
+		System.out.println("this is a test 2222");
 	}
 
 }
